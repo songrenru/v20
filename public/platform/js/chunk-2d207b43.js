@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d207b43"],{a251:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("p",[n._v(" 单元管理 注意了，这里也可以直接从菜单进来，也有可能是从楼栋列表过来 ")])},c=[],u={name:"unitfloor"},o=u,r=t("2877"),l=Object(r["a"])(o,a,c,!1,null,"308cab26",null);e["default"]=l.exports}}]);
